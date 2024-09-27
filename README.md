@@ -3,8 +3,9 @@ Portfolio creado por proyectos 3D y animaciones
 
 ## Tabla de contenidos
 * Mi nombre Luis Fernández
-* [Documentación para replicar]
-* [Preguntas frecuentes]
+* [Documentación para replicar](#replicar)
+* [Preguntas frecuentes](#preguntas)
+  
 * roquetas2024@gmail.com
 
 ## Introducción <a name="https://github.com/Lufer1970/Portfolio.git"></a> 
