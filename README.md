@@ -9,7 +9,7 @@ Portfolio creado por proyectos 3D y animaciones
 
   [dinosaurio.webm](https://github.com/user-attachments/assets/03280da3-da10-40a2-9e46-390e746fb8d0)
 
-* roquetas2024@gmail.com
+* varsovia2805@gmail.com
 
 ## Introducción <a name="https://github.com/Lufer1970/Portfolio.git"></a> 
 
