@@ -4,8 +4,11 @@ Portfolio creado por proyectos 3D y animaciones
 ## Tabla de contenidos
 * Mi nombre Luis Fernández
 * [Documentación para replicar](#replicar)
-* [Preguntas frecuentes](#preguntas)
-  
+* [Mis trabajos](#trabajos)[helicoptero.webm](https://github.com/user-attachments/assets/eff55f09-b4f5-49c0-8761-5254a7a6ea71)
+[DEMO Language Game (DEBUG) 2024-06-25 20-37-02 (1).webm](https://github.com/user-attachments/assets/325f7f89-1143-4d91-b44d-14c1ba8ae787)
+
+  [dinosaurio.webm](https://github.com/user-attachments/assets/03280da3-da10-40a2-9e46-390e746fb8d0)
+
 * roquetas2024@gmail.com
 
 ## Introducción <a name="https://github.com/Lufer1970/Portfolio.git"></a> 
